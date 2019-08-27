@@ -12,4 +12,4 @@ For Segmentation I have used histogram of pixel projection that consists of find
 </br>
 For recognition I have used Multi layered perceptron(MLP) Artificial neural nets(ANN).</br>
 </br>
-Thank you!<>
+Thank you!
